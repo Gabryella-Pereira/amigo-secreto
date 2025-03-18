@@ -26,7 +26,7 @@ JavaScript (ES6): Lógica do sorteio e interatividade.
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/Gabryella-Pereira/amigo-secreto.git
 
 Acesse a pasta do projeto:
 
